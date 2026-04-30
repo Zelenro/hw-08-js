@@ -5,7 +5,7 @@
   "homepage": "https://github.com/Zelenro/hw-08-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Zelenro/hw-08-js"
+    "build": "parcel build src/*.html --public-url /hw-08-js"
   },
   "repository": {
     "type": "git",
